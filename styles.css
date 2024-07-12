@@ -22,7 +22,6 @@ body {
 
     position: relative;
 
-    box-shadow: inset 0 0 10px rgba(0, 0, 0, 0.5);    
 }
 
 .circle {
@@ -39,7 +38,6 @@ body {
     top: 5px;
     bottom: 3px; 
 
-    box-shadow: inset 0 0 10px rgba(0, 0, 0, 0.5);    
 
 }
 
@@ -91,7 +89,7 @@ p {
 }
 
 .pressed {
-    box-shadow: inset 0 0 20px rgba(0, 0, 0, 0.5);    
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.5);    
 }
 
 .night-p {
